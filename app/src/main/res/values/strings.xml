@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+
+    <string name="first_name">First name:</string>
+    <string name="last_name">Last name:</string>
+    <string name="age">Age:</string>
+
+    <string name="hint_first_name">Enter First Name <font color='#FF0000'>*</font></string>
+    <string name="hint_last_name">Enter Last Name <font color='#FF0000'>*</font></string>
+    <string name="hint_date_of_birth">Select Date of Birth <font color='#FF0000'>*</font></string>
+
+    <string name="user_information_text">Users Information</string>
+    <string name="back_text">Back</string>
+    <string name="age_text">"%1d years, %2d month, %3d days"</string>
+    <string name="next_text">Next</string>
+    <string name="year_month_day_text">Year - Month - Day</string>
+    <string name="enter_dob_text">Enter DOB</string>
+
+    <string name="first_name_error_text">Enter First Name Here.</string>
+    <string name="last_name_error_text">Enter Last Name Here.</string>
+    <string name="dob_error_text">Please select Date of Birth.</string>
+    <string name="common_error_text">Something went wrong. Please try after sometime!</string>
+</resources>
